@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NqbKeqwCcUmKQa4k5QEx9LQnQsQ=
+		V8W4oVUZck6KA06k4H6JnuJYU0Y=
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		DUHkZiQ7BSFaJC+ld/riWnTSc8M=
+		tBw/zxf/FzvsZULaprVpy3xiyX0=
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8eeDYPo+6BNPqnmN1ZYrqH3GpEc=
+		l0yzvZ7925A1ZPqScHRrPLSTpfE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKOXnVL14OcyCP5Ng8+ABtdC4lfM9CqmsyobBPnE46s=
+			s0CAhp+iaB5rFVSLdP8k7X7Ylu6hR8mDRb3hdLKzUdM=
 			</data>
 		</dict>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wMquUCNs+nZwfYB48fihN08WTIBQwvpHLwlhh/ij1pY=
+			DgLwPqrSvn3vGhPl0RSvE3gd6cd0ad3idVIsr4Ig3Y4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
