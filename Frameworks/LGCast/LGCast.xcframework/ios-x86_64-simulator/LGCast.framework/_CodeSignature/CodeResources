@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/LGCast-Swift.h</key>
 		<data>
-		BcEg6ToBthYxQahP6gaHoNEUTN0=
+		c2vvEopiz9LHsM4meIthYXWim3s=
 		</data>
 		<key>Headers/LGCast.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		V8W4oVUZck6KA06k4H6JnuJYU0Y=
+		J4iwEtAGIFo3XJT3aNQtYp4X+pw=
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		tBw/zxf/FzvsZULaprVpy3xiyX0=
+		JU35hsTEci7MfYTFEDxQXPPSd1k=
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3M9ZQSxVFGbyWdNmB0/mR3XvZTc=
+		yhxX92yCjbQ2isH0YgTo0Mu5BCI=
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		voX8JClB639WMoKI+Oqrwv6YfV4=
+		YtrR+kIbLAiLfF/DpniOP0seIRI=
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3M9ZQSxVFGbyWdNmB0/mR3XvZTc=
+		yhxX92yCjbQ2isH0YgTo0Mu5BCI=
 		</data>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		l0yzvZ7925A1ZPqScHRrPLSTpfE=
+		2u9F6q/RG3b2CQv9UMGRp3rJ7r4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		gTGjU3dap4EejAmqzU8KOGOyNwo=
+		9CZYW1WPqe306R9B9GVpb+SIIYk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r34SmRjY50avS9NXwyXE8muNbAuzgpID7R13P1NTNTc=
+			akUYDtSuvoun8BjnAS0I0m41lMrm8M0KjqJkMWoAK3M=
 			</data>
 		</dict>
 		<key>Headers/LGCast.h</key>
@@ -61,42 +61,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s0CAhp+iaB5rFVSLdP8k7X7Ylu6hR8mDRb3hdLKzUdM=
+			QfqLw67HdR+zy8fxz+wCiUzt1uVCnZqqq9z5a3/QnEk=
 			</data>
 		</dict>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			svdTno6biCyM8uqgWyHHEBAfjUlArY2HI6NGFTGal00=
+			sER47z1FVH3nX9HPnuYZnL3rJ3H8ErCYnjPbihK5jgE=
 			</data>
 		</dict>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Arssno/Jft4uCaxaUcYsH8VdeR1rfCsjOHomdQPeKF8=
+			u8K+Ak9kACpbxmgk1JpptmcC4lT1DNRgW5GVf3HW79Y=
 			</data>
 		</dict>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			svdTno6biCyM8uqgWyHHEBAfjUlArY2HI6NGFTGal00=
+			sER47z1FVH3nX9HPnuYZnL3rJ3H8ErCYnjPbihK5jgE=
 			</data>
 		</dict>
 		<key>Modules/LGCast.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DgLwPqrSvn3vGhPl0RSvE3gd6cd0ad3idVIsr4Ig3Y4=
+			GHfheWREtO+bnhOL29YIJWLQ/6aZvi/xbONOM+VVd5M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			etobu8/2pTW3nAIWj7WFbm28/wcV0X1Prrgs8gVJj8I=
+			IKvJVAbgsWUEbi9Aw+rZ9IXtv8xZS1De3U2K+4l0dr4=
 			</data>
 		</dict>
 	</dict>
